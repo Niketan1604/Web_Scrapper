@@ -13,11 +13,6 @@ import tablet from './img/tablet.jpg'
 function Home({ setProduct, setAmazonData, setFlipkartData }) {
     const [query, setQuery] = useState("");
 
-    document.addEventListener('keydown', (e) => {
-        if (e.key === 'Enter') handleSearchClick();
-    })
-
-
     const handleSearchClick = () => {
         if (query !== "") {
             setAmazonData(null);

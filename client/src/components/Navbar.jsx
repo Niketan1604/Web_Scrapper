@@ -7,11 +7,6 @@ import { Link } from 'react-router-dom';
 function Navbar({ setProduct, setAmazonData, setFlipkartData }) {
   const [query, setQuery] = useState("");
 
-  document.addEventListener('keydown', (e) => {
-    if (e.key === 'Enter') handleSearchClick();
-  })
-
-
   const handleSearchClick = () => {
     if (query !== "") {
       setAmazonData(null);

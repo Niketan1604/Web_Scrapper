@@ -26,12 +26,12 @@ function About() {
                     </div>
                     <div className="team-content">
                         <div className="box">
-                            <img src={img1} alt='Person'/>
+                            <img src={img1} alt='Person' />
                             <h3>Niketan Swami</h3>
                             <h5>Full Stack Developer</h5>
                             <div className="icons">
-                                <a href="https://www.linkedin.com/in/niketan-swami-b74491152/" target='_blank'><i className="ri-github-fill" /></a>
-                                <a href="https://github.com/Niketan1604" target='_blank'><i className="ri-linkedin-fill" /></a>
+                                <a href="https://www.linkedin.com/in/niketan-swami-b74491152/" target='_blank'><i className="ri-linkedin-fill" /></a>
+                                <a href="https://github.com/Niketan1604" target='_blank'><i className="ri-github-fill" /></a>
                                 <a href="https://www.instagram.com/_nik0091/" target='_blank'><i className="ri-instagram-fill" /></a>
                             </div>
                         </div>
@@ -40,29 +40,29 @@ function About() {
                             <h3>Prakhar Kori</h3>
                             <h5>Jugaadu</h5>
                             <div className="icons">
-                                <a href="#"><i className="ri-github-fill" /></a>
-                                <a href="#"><i className="ri-linkedin-fill" /></a>
-                                <a href="#"><i className="ri-instagram-fill" /></a>
+                                <a href="https://www.linkedin.com/in/niketan-swami-b74491152/" target='_blank'><i className="ri-linkedin-fill" /></a>
+                                <a href="https://github.com/Niketan1604" target='_blank'><i className="ri-github-fill" /></a>
+                                <a href="https://www.instagram.com/_nik0091/" target='_blank'><i className="ri-instagram-fill" /></a>
                             </div>
                         </div>
                         <div className="box">
-                            <img src={img3} alt='Person'/>
+                            <img src={img3} alt='Person' />
                             <h3>Bhuwanesh Choudhary</h3>
                             <h5>E sala cup namde</h5>
                             <div className="icons">
-                                <a href="#"><i className="ri-github-fill" /></a>
-                                <a href="#"><i className="ri-linkedin-fill" /></a>
-                                <a href="#"><i className="ri-instagram-fill" /></a>
+                                <a href="https://www.linkedin.com/in/bhuwanesh-choudhary-4bb87521a/" target='_blank'><i className="ri-linkedin-fill" /></a>
+                                <a href="https://github.com/bhuwanesh75" target='_blank'><i className="ri-github-fill" /></a>
+                                <a href="https://www.instagram.com/bhuwanesh_75/" target='_blank'><i className="ri-instagram-fill" /></a>
                             </div>
                         </div>
                         <div className="box">
-                            <img src={img4} alt='Person'/>
+                            <img src={img4} alt='Person' />
                             <h3>Anshu Ranjan</h3>
                             <h5>CR and Tomperr</h5>
                             <div className="icons">
-                                <a href="#"><i className="ri-github-fill" /></a>
-                                <a href="#"><i className="ri-linkedin-fill" /></a>
-                                <a href="#"><i className="ri-instagram-fill" /></a>
+                                <a href="https://www.linkedin.com/in/anshuranjann/" target='_blank'><i className="ri-linkedin-fill" /></a>
+                                <a href="https://github.com/ranshu1601" target='_blank'><i className="ri-github-fill" /></a>
+                                <a href="https://www.instagram.com/__periple__/" target='_blank'><i className="ri-instagram-fill" /></a>
                             </div>
                         </div>
                     </div>
